@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x5B9F34042Aa9A376a0DEcdDA2D4040d1c9634d9D",
+  "SCAN_LINK": "https://polygonscan.com/address/0x5b9f34042aa9a376a0decdda2d4040d1c9634d9d",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "PolyPlanets",
+  "SYMBOL": "PP",
+  "MAX_SUPPLY": 7777,
+  "WEI_COST": 5000000000000000000,
+  "DISPLAY_COST": 5,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/polyplanets-official",
+  "SHOW_BACKGROUND": true
+}
